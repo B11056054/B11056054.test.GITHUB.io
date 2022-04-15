@@ -99,4 +99,4 @@ document.write("<td class=content>7*20=140</td><table></table>");
         </script>
     </body>
 
-</html>
+
