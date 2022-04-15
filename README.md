@@ -59,7 +59,7 @@
 
 
     <body>
-        <script>
+        <script >
             document.write("<table  id=tableCaption>");
 document.write("<caption><h1>MIS快餐店價格表</h1></caption>");
 document.write("<tr><th id=none></th>");
